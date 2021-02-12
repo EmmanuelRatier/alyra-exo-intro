@@ -1,0 +1,11 @@
+cd = change directory
+pwd = print working directory
+rm = remove files or directory
+mkdir = make directories
+
+ls -a = do not ignore entries starting with .
+rm -r = remove directories and their contents recursively
+
+sudo : Cette commande permet à un administrateur système d'accorder à certains utilisateurs (ou groupes d'utilisateurs) la possibilité de lancer une commande en tant qu'administrateur, ou en tant qu'autre utilisateur, tout en conservant une trace des commandes saisies et des arguments. 
+L'utilitaire sudo s'utilise en ligne de commande, dans un terminal. Il sert par exemple à exécuter, en mode superutilisateur, des commandes ou des applications en console. Il faut faire précéder chacune des commandes à exécuter en mode superutilisateur par la commande sudo, de la manière suivante : sudo <commande>
+
